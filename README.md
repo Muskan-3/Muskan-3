@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Muskan 👋
 
 🎓 B.Tech in Information Technology | ☁️ Specializing in Cloud Computing  
 💡 Currently learning: Operating Systems & Computing Fundamentals  
