@@ -3,8 +3,8 @@
 📚 Currently learning: Operating Systems & Computing Fundamentals
 💻 Interests: Cloud Technologies, Web Development, Open Source
 
-💼 About Me
-I’m an enthusiastic and driven tech student passionate about building impactful digital experiences and scalable cloud solutions. I enjoy exploring emerging technologies, especially in web development and cloud computing, and I continuously seek opportunities to grow and contribute to real-world projects.
+💼 About Me:
+I’m an enthusiastic and a hard working tech student passionate about web development and coding. I enjoy exploring emerging technologies, especially in web development and cloud computing, and I continuously seek opportunities to grow and contribute to real-world projects.
 
 🔧 Front-end development with HTML, CSS, and JavaScript
 
@@ -25,5 +25,5 @@ C Array Playground	Implementations of one-dimensional and multi-dimensional arra
 📫 Contact
 📧 Email: shrivastavamuskan05@gmail.com
 
-💼 LinkedIn: Muskan Shrivastava
+💼 LinkedIn: https://www.linkedin.com/in/muskan-shrivastava-75b9a2250/
 
