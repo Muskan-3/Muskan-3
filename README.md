@@ -13,7 +13,7 @@ Data Structures, Algorithms & SQL
 Open Source & Collaboration
 
 📫 Get in Touch
-📧 shrivastavamuskan05@gmail.com
-🔗 LinkedIn
+📧 Email:shrivastavamuskan05@gmail.com
+🔗 LinkedIn https://www.linkedin.com/in/muskan-shrivastava-75b9a2250/
 
 
